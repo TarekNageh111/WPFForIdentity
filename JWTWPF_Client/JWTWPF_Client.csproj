@@ -1,0 +1,56 @@
+﻿
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <RootNamespace>JWTWPF_Client</RootNamespace>
+    <EnableDefaultItems>False</EnableDefaultItems>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Telerik.UI.for.Wpf.60.Xaml" Version="2022.1.222" />
+  </ItemGroup>
+  
+  <ItemGroup>
+  <ApplicationDefinition Include="App.xaml">
+    <Generator>MSBuild:Compile</Generator>
+    <SubType>Designer</SubType>
+  </ApplicationDefinition>
+  <Page Include="HomeView.xaml">
+    <Generator>MSBuild:Compile</Generator>
+  </Page>
+  <Page Include="LoginView.xaml">
+    <Generator>MSBuild:Compile</Generator>
+  </Page>
+  <Page Include="MainWindow.xaml">
+    <Generator>MSBuild:Compile</Generator>
+    <SubType>Designer</SubType>
+  </Page>
+  <Page Include="RegisterView.xaml">
+    <Generator>MSBuild:Compile</Generator>
+  </Page>
+  <Compile Include="App.xaml.cs">
+    <DependentUpon>App.xaml</DependentUpon>
+    <SubType>Code</SubType>
+  </Compile>
+  <Compile Include="Credentials\CredentialManager.cs" />
+  <Compile Include="HelperManagers\AuthManager.cs" />
+  <Compile Include="HomeView.xaml.cs" />
+  <Compile Include="LoginView.xaml.cs" />
+  <Compile Include="MainWindow.xaml.cs">
+    <DependentUpon>MainWindow.xaml</DependentUpon>
+    <SubType>Code</SubType>
+  </Compile>
+  <Compile Include="RegisterView.xaml.cs" />
+</ItemGroup>
+  
+  <ItemGroup>
+    <Reference Include="RegistrationsLiberary">
+      <HintPath>..\..\..\..\source\repos\RegistrationsLiberary\RegistrationsLiberary\bin\Debug\net6.0\RegistrationsLiberary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

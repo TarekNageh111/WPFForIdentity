@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|c:\\users\\tarek.nageh\\desktop\\clientjwt\\jwtwpf_client\\jwtwpf_client\\helpermanagers\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|solutionrelative:jwtwpf_client\\helpermanagers\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|c:\\users\\tarek.nageh\\desktop\\clientjwt\\jwtwpf_client\\jwtwpf_client\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|solutionrelative:jwtwpf_client\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|c:\\users\\tarek.nageh\\desktop\\clientjwt\\jwtwpf_client\\jwtwpf_client\\credentials\\credentialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|solutionrelative:jwtwpf_client\\credentials\\credentialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|c:\\users\\tarek.nageh\\desktop\\clientjwt\\jwtwpf_client\\jwtwpf_client\\homeview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|solutionrelative:jwtwpf_client\\homeview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|c:\\users\\tarek.nageh\\desktop\\clientjwt\\jwtwpf_client\\jwtwpf_client\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|solutionrelative:jwtwpf_client\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|c:\\users\\tarek.nageh\\desktop\\clientjwt\\jwtwpf_client\\jwtwpf_client\\loginview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|solutionrelative:jwtwpf_client\\loginview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|c:\\users\\tarek.nageh\\desktop\\clientjwt\\jwtwpf_client\\jwtwpf_client\\registerview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|solutionrelative:jwtwpf_client\\registerview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|c:\\users\\tarek.nageh\\desktop\\clientjwt\\jwtwpf_client\\jwtwpf_client\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|solutionrelative:jwtwpf_client\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|c:\\users\\tarek.nageh\\desktop\\clientjwt\\jwtwpf_client\\jwtwpf_client\\registerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|solutionrelative:jwtwpf_client\\registerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|c:\\users\\tarek.nageh\\desktop\\clientjwt\\jwtwpf_client\\jwtwpf_client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|solutionrelative:jwtwpf_client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|c:\\users\\tarek.nageh\\desktop\\clientjwt\\jwtwpf_client\\jwtwpf_client\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|solutionrelative:jwtwpf_client\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|c:\\users\\tarek.nageh\\desktop\\clientjwt\\jwtwpf_client\\jwtwpf_client\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ECFBD8A-3183-47D9-BA36-69555162A1F3}|JWTWPF_Client\\JWTWPF_Client.csproj|solutionrelative:jwtwpf_client\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "JWTWPF_Client\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\MainWindow.xaml",
+              "RelativeToolTip": "JWTWPF_Client\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-23T10:54:04.593Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\App.xaml",
+              "RelativeDocumentMoniker": "JWTWPF_Client\\App.xaml",
+              "ToolTip": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\App.xaml",
+              "RelativeToolTip": "JWTWPF_Client\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-23T10:54:13.941Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\App.xaml.cs",
+              "RelativeDocumentMoniker": "JWTWPF_Client\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\App.xaml.cs",
+              "RelativeToolTip": "JWTWPF_Client\\App.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:54:35.558Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "JWTWPF_Client\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\MainWindow.xaml.cs",
+              "RelativeToolTip": "JWTWPF_Client\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:55:35.492Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\HelperManagers\\AuthManager.cs",
+              "RelativeDocumentMoniker": "JWTWPF_Client\\HelperManagers\\AuthManager.cs",
+              "ToolTip": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\HelperManagers\\AuthManager.cs",
+              "RelativeToolTip": "JWTWPF_Client\\HelperManagers\\AuthManager.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAWwGIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:59:24.105Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\HomeView.xaml.cs",
+              "RelativeDocumentMoniker": "JWTWPF_Client\\HomeView.xaml.cs",
+              "ToolTip": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\HomeView.xaml.cs",
+              "RelativeToolTip": "JWTWPF_Client\\HomeView.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:38:38.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\HomeView.xaml",
+              "RelativeDocumentMoniker": "JWTWPF_Client\\HomeView.xaml",
+              "ToolTip": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\HomeView.xaml",
+              "RelativeToolTip": "JWTWPF_Client\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-23T13:32:38.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "JWTWPF_Client\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\LoginView.xaml.cs",
+              "RelativeToolTip": "JWTWPF_Client\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:07:20.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\LoginView.xaml",
+              "RelativeDocumentMoniker": "JWTWPF_Client\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\LoginView.xaml",
+              "RelativeToolTip": "JWTWPF_Client\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-23T13:06:51.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\RegisterView.xaml.cs",
+              "RelativeDocumentMoniker": "JWTWPF_Client\\RegisterView.xaml.cs",
+              "ToolTip": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\RegisterView.xaml.cs",
+              "RelativeToolTip": "JWTWPF_Client\\RegisterView.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:56:34.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterView.xaml",
+              "DocumentMoniker": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\RegisterView.xaml",
+              "RelativeDocumentMoniker": "JWTWPF_Client\\RegisterView.xaml",
+              "ToolTip": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\RegisterView.xaml",
+              "RelativeToolTip": "JWTWPF_Client\\RegisterView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-23T12:55:24.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CredentialManager.cs",
+              "DocumentMoniker": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\Credentials\\CredentialManager.cs",
+              "RelativeDocumentMoniker": "JWTWPF_Client\\Credentials\\CredentialManager.cs",
+              "ToolTip": "C:\\Users\\tarek.nageh\\Desktop\\ClientJwt\\JWTWPF_Client\\JWTWPF_Client\\Credentials\\CredentialManager.cs",
+              "RelativeToolTip": "JWTWPF_Client\\Credentials\\CredentialManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:16:57.931Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 65,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
